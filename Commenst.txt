@@ -1,0 +1,16 @@
+step 1:first login in github
+step 2:install git
+step 3:cmd git config --glogal user.name,user.email,""
+step 4:create new repository as public,create file or upload on it
+step 5:download vs code
+step 6:create git folder cd git
+step 7: open terminal ctrl+shift+`
+step 8:git clone copy linl from git code and paste on it
+step 9:next you create new file in git and check command git status
+step 1:
+step 1:
+step 1:
+step 1:
+step 1:
+step 1:
+step 1:
